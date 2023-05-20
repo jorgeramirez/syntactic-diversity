@@ -1,4 +1,2 @@
 # syntactic-diversity
 
-
-**Coming soon :)**
